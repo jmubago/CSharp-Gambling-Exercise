@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2035
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.3_GamblerProblem", "02.3_GamblerProblem\02.3_GamblerProblem.csproj", "{A15A8E20-F325-42BA-A775-FE007A30D06B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A15A8E20-F325-42BA-A775-FE007A30D06B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A15A8E20-F325-42BA-A775-FE007A30D06B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A15A8E20-F325-42BA-A775-FE007A30D06B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A15A8E20-F325-42BA-A775-FE007A30D06B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7D7FE920-7F3F-40AC-B577-631ED1A6D84B}
+	EndGlobalSection
+EndGlobal
